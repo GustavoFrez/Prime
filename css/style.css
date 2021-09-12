@@ -23,7 +23,7 @@ p {
   display: block;
   width: 60px;
   height: 5px;
-  background: #ef2a25;
+  background: #f58634;
   margin: 10px 0;
 }
 
@@ -81,14 +81,14 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #ef2a25;
-  border-bottom: 2px solid #ef2a25;
+  color: #f58634;
+  border-bottom: 2px solid #f58634;
   transition: 0.2s;
 }
 
 .checkbtn {
   font-size: 30px;
-  color: #ef2a25;
+  color: #f58634;
   float: right;
   line-height: 120px;
   margin-right: 40px;
@@ -425,7 +425,7 @@ nav ul li a:hover {
   display: block;
   width: 50px;
   height: 4px;
-  background: #ef2a25;
+  background: #f58634;
   margin: 0 auto;
 }
 
